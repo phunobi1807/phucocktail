@@ -1,14 +1,13 @@
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
-// import axios from 'axios';
-import CallCoctail from './api/CallCoctail';
+import axios from 'axios';
 
 function App() {
   
   return (
     <div className="App">
       Hello world
-     <CallCoctail />
+      
     </div>
   );
 }
