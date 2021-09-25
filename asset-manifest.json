@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phunobi1807/phucocktail.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/phunobi1807/phucocktail.git/static/js/main.3e57928b.chunk.js",
+    "main.js.map": "/phunobi1807/phucocktail.git/static/js/main.3e57928b.chunk.js.map",
+    "runtime-main.js": "/phunobi1807/phucocktail.git/static/js/runtime-main.135b6bcb.js",
+    "runtime-main.js.map": "/phunobi1807/phucocktail.git/static/js/runtime-main.135b6bcb.js.map",
+    "static/js/2.65932c93.chunk.js": "/phunobi1807/phucocktail.git/static/js/2.65932c93.chunk.js",
+    "static/js/2.65932c93.chunk.js.map": "/phunobi1807/phucocktail.git/static/js/2.65932c93.chunk.js.map",
+    "static/js/3.3673e0fc.chunk.js": "/phunobi1807/phucocktail.git/static/js/3.3673e0fc.chunk.js",
+    "static/js/3.3673e0fc.chunk.js.map": "/phunobi1807/phucocktail.git/static/js/3.3673e0fc.chunk.js.map",
+    "index.html": "/phunobi1807/phucocktail.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/phunobi1807/phucocktail.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.65932c93.chunk.js.LICENSE.txt": "/phunobi1807/phucocktail.git/static/js/2.65932c93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.135b6bcb.js",
+    "static/js/2.65932c93.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3e57928b.chunk.js"
+  ]
+}
